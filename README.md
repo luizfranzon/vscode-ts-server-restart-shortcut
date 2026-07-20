@@ -30,8 +30,8 @@ Nenhum reportado até o momento. Encontrou um bug? Abra uma issue no repositóri
 
 ## Release Notes
 
-Veja o CHANGELOG.md para o histórico de versões.
+Veja o [CHANGELOG.md](CHANGELOG.md) para o histórico de versões.
 
 ## Licença
 
-MIT
+[MIT](LICENSE)

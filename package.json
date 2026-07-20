@@ -5,6 +5,14 @@
   "version": "0.0.1",
   "publisher": "luizfranzon",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luizfranzon/vscode-ts-server-restart-shortcut.git"
+  },
+  "bugs": {
+    "url": "https://github.com/luizfranzon/vscode-ts-server-restart-shortcut/issues"
+  },
+  "homepage": "https://github.com/luizfranzon/vscode-ts-server-restart-shortcut#readme",
   "engines": {
     "vscode": "^1.125.0"
   },
