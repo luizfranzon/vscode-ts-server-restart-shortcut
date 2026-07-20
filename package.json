@@ -4,6 +4,7 @@
   "description": "Restart the TypeScript Server with one click from the status bar",
   "version": "0.0.1",
   "publisher": "luizfranzon",
+  "icon": "icon.png",
   "license": "MIT",
   "repository": {
     "type": "git",
