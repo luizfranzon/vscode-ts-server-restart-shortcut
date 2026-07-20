@@ -2,7 +2,7 @@
   "name": "vscode-ts-server-restart-shortcut",
   "displayName": "TS Server Restart Shortcut",
   "description": "Restart the TypeScript Server with one click from the status bar",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "luizfranzon",
   "icon": "icon.png",
   "license": "MIT",
